@@ -1,5 +1,5 @@
 # AMS-512-Python
-A personal learning project in collaboration with El Mehdi Ainasse, to translate
+A personal learning project in collaboration with El Mehdi Ainasse and Marlon Gomes, to translate
 Robert Frey's AMS 512 Mathematica notebooks into python notebooks. 
 
 Disclaimer: 
