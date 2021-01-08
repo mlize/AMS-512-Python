@@ -1,3 +1,4 @@
 *.DS_Store
-*mxSP500Index.csv
-*mxSP500LogReturn.csv
+.ipynb_checkpoints/AMS_512_1_Extreme Events-checkpoint.ipynb
+.ipynb_checkpoints/AMS_512_1_Mean_Variance_Optimization-checkpoint.ipynb
+
